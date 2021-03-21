@@ -1,1 +1,10 @@
-wwwwwww function dtdsstuff lego
+body{
+    text-align: center;
+    background-image: url("Images/racing.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    background-image: url("Images/Road.gif");
+}
